@@ -28,6 +28,7 @@ public class SalesmanPersonal extends PApplet{
     	background(0);
     	frameRate(999999999);
     	
+    	
     	//Create random points between the width and height of the window
     	for(int i = 0; i < numPoints; i++){
     		
