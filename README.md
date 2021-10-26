@@ -1,4 +1,5 @@
 # The project in action!
+![100 City Personal](https://user-images.githubusercontent.com/16530058/138948428-307a666a-77f6-4057-937a-707133e530e5.gif)
 
 
 # The Algorithm
